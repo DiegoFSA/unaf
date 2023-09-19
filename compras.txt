@@ -1,0 +1,8 @@
+comestibles
+yerba
+fideos
+harina
+
+limpieza
+lavandina
+detergente
